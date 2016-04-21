@@ -36,4 +36,8 @@ coming soon.....
 ##4.ARM TrustZone
 This is info about Trustonic
 coming soon.....
-## (I hope I can write somethings about java TEE API and more things,Just wait I come back this repo a year later :) )
+
+
+
+(I hope I can write somethings about java TEE API and more things,Just wait I come back this repo a year later :) )
+                                                                   -----edit on April 21 2016 This is version..0x00  
