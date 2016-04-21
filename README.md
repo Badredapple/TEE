@@ -39,5 +39,5 @@ coming soon.....
 
 
 
-(I hope I can write somethings about java TEE API and more things,Just wait I come back this repo a year later :) )
-                                                                   -----edit on April 21 2016 This is version..0x00  
+(I hope I can write somethings about java TEE API and more things,Just wait I come back this repo a year later :))
+Edit on April 21 2016 This is version..0x00  
