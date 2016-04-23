@@ -27,6 +27,9 @@ Trusted Execution Environment
     (I try to keep the sources is open-source, but you have to kept their side of the protocol.
     such as MIT, apache )
     
+    This will be some youtube source about the TEE. I will put the -sites above:
+    
+    
 ##2.Open-TEE
 This is info about open TEE and open-TE
 coming soon.....
