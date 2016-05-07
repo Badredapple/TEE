@@ -19,15 +19,20 @@ Trusted Execution Environment
     whenever and whereever I find it, I will download them and push them here.
     (If your paper is here, but you hate me use it, please put a issue .And I will remove it,
     after I check the issue)
+    some paper about the secuity of the SCADA system.
     
     some sites about TEE , Trusted computing, FIDO)
     (all web sites comes from the internet. I will check the sites some times)
+    5/7/2016 update：
+    Trustzone （ARM） 
+    how to attack HUAWEI meta 7 TEE under the trustzone.
     
     some open-source repo in github,oschina,stackoverflow and etc.
     (I try to keep the sources is open-source, but you have to kept their side of the protocol.
     such as MIT, apache )
     
     This will be some youtube source about the TEE. I will put the -sites above:
+    
     
     
 ##2.Open-TEE
